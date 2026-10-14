@@ -70,6 +70,6 @@ Everything else was drawn by me.
 
 ## License
 
-© 2026 Arzu Rustamova (Echo5 Studio). All rights reserved.
+© 2026 Arzu Rustamova (Luminech Studio). All rights reserved.
 
 The app is free to download and use. The source code is not public. Third-party sprites, sounds and fonts keep their own licences, listed in [credits.md](credits.md).
