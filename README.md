@@ -62,6 +62,10 @@ Nothing is actually damaged. This only removes the "downloaded from the internet
 
 **Updates:** when a new version is released, Lunoupe shows a small note on its home screen. Download the new version and install it over the old one. Your avatar and settings stay.
 
+## Support
+
+Questions, bugs, or trouble installing? Email **echo5vgame@gmail.com**, or open an [issue](https://github.com/arjrst/lunoupe/issues).
+
 ## Credits
 
 Character sprites from the Liberated Pixel Cup (LPC) collection, sounds from Freesound, and the fonts Press Start 2P and Galmuri. The full list of artists and licences is in [credits.md](credits.md) and in the app (Settings → Credits).
