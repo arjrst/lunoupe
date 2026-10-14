@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://echo5studio.itch.io/lunoupe"><b>Get it on itch.io</b></a> ·
+  <a href="https://luminechstudio.itch.io/lunoupe"><b>Get it on itch.io</b></a> ·
   <a href="https://github.com/arjrst/lunoupe/releases/latest"><b>Download from GitHub</b></a>
 </p>
 
