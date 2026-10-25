@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://luminechstudio.itch.io/lunoupe"><b>Get it on itch.io</b></a> ·
+  <a href="https://echo5vgames.itch.io/lunoupe"><b>Get it on itch.io</b></a> ·
   <a href="https://github.com/arjrst/lunoupe/releases/latest"><b>Download from GitHub</b></a>
 </p>
 
@@ -74,6 +74,6 @@ Everything else was drawn by me.
 
 ## License
 
-© 2026 Arzu Rustamova (Luminech Studio). All rights reserved.
+© 2026 Arzu Rustamova (Echo5VGames). All rights reserved.
 
 The app is free to download and use. The source code is not public. Third-party sprites, sounds and fonts keep their own licences, listed in [credits.md](credits.md).
